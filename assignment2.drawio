@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-18T11:46:33.038Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="Nnyk7hPhfc5FFT_XDMhm" version="13.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-18T12:58:31.076Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="4AKcVY6yq9A3HIJT8v_D" version="13.6.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2249" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -173,6 +173,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="ImR_bXziVcKk-WpQqdax-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ImR_bXziVcKk-WpQqdax-2" target="ImR_bXziVcKk-WpQqdax-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ImR_bXziVcKk-WpQqdax-2" value="疫情信息云服务" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="414" y="980" width="120" height="80" as="geometry" />
         </mxCell>
@@ -185,8 +188,17 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="ImR_bXziVcKk-WpQqdax-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ImR_bXziVcKk-WpQqdax-3" target="ImR_bXziVcKk-WpQqdax-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ImR_bXziVcKk-WpQqdax-3" value="花粉过敏数据&lt;br&gt;云服务" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="420" y="1089" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ImR_bXziVcKk-WpQqdax-9" value="花粉过敏数据库" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="600" y="1089" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ImR_bXziVcKk-WpQqdax-11" value="疫情数据库" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="600" y="980" width="60" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
