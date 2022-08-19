@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-19T07:27:33.924Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="6qhSwSGY90P5p-J9sm4Z" version="20.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-19T07:28:38.311Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="zUk6s3U8YQuCqtUgLABL" version="20.2.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2062" dy="1154" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2889" dy="1154" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -91,8 +91,8 @@
         <mxCell id="7_esvoWY841IkbyZ4QoX-29" value="加入校验，以及完整的日志输出" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF3C00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="400" y="250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7_esvoWY841IkbyZ4QoX-39" value="最新的源站部署方式检验不方便，因此之前运维取消了最终的资源校验，缺少最后一道屏障" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#FFFF66;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry y="525" width="130" height="90" as="geometry" />
+        <mxCell id="7_esvoWY841IkbyZ4QoX-39" value="昨天出错原因：最新的运维架构导致源站部署方式检验不方便，因此之前运维取消了最终的资源校验，缺少最后一道屏障" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#FFFF66;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-60" y="522.5" width="170" height="95" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
