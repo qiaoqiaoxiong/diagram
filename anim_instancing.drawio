@@ -34,11 +34,15 @@
         <mxCell id="Z2ELihAoB1qGX9_mnctW-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Z2ELihAoB1qGX9_mnctW-14" target="Z2ELihAoB1qGX9_mnctW-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Z2ELihAoB1qGX9_mnctW-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Z2ELihAoB1qGX9_mnctW-14" target="Z2ELihAoB1qGX9_mnctW-20" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="Z2ELihAoB1qGX9_mnctW-14" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;AnimationInstanceRenderer&lt;/b&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="399" y="440" width="176" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PuY58KTqlz3tn9woqcPd-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Z2ELihAoB1qGX9_mnctW-15" target="Z2ELihAoB1qGX9_mnctW-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1175" y="570" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="Z2ELihAoB1qGX9_mnctW-15" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;AnimationInstanceRenderResource&lt;/b&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="382" y="540" width="210" height="60" as="geometry" />
@@ -68,7 +72,7 @@
           <mxGeometry x="940" y="860" width="189" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PuY58KTqlz3tn9woqcPd-3" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;RenderMesh&lt;/b&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="940" y="770" width="189" height="60" as="geometry" />
+          <mxGeometry x="1170" y="850" width="189" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PuY58KTqlz3tn9woqcPd-5" value="&lt;h3&gt;Messiah:Drivers&lt;/h3&gt;" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="880" y="990" width="590" height="210" as="geometry" />
@@ -84,6 +88,9 @@
         </mxCell>
         <mxCell id="PuY58KTqlz3tn9woqcPd-9" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;VulkanShaderImp&lt;/b&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1230" y="1040" width="189" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PuY58KTqlz3tn9woqcPd-12" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Messiah::RenderObject&lt;/b&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="940" y="770" width="189" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
